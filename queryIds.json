@@ -1,0 +1,13 @@
+{
+  "account": "query_id",
+  "address": "query_id",
+  "alias": "query_id",
+  "block": "query_id",
+  "blockId": "query_id",
+  "blockIdOrAlias": "query_id",
+  "blockIdOrAliasOrAddress": "query_id",
+  "blockIdOrAliasOrAddressOrAlias": "query_id",
+  "blockIdOrAliasOrAddressOrAliasOrAlias": "query_id",
+  "blockIdOrAliasOrAddressOrAliasOrAliasOrAlias": "query_id",
+  "blockIdOrAliasOrAddressOrAliasOrAliasOrAliasOrAlias": "query_id"
+}
